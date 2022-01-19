@@ -15,4 +15,4 @@ Very simple CRUD application built with Python and Django
 1. git clone https://github.com/Megame99/Inventory-Web-Application.git
 2. cd django-webapp
 3. docker-compose up --build
-4. Navigate to this [link](https://127.0.0.1/8000) 
+4. Navigate to http://localhost:8000/ 
