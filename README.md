@@ -1,5 +1,5 @@
 # SUMMARY
-Very simple CRUD application built with Python and Django
+Simple CRUD application built with Python and Django
 
 # Production Deployment
 ### Click link below to access application hosted on Google Cloud Kubernetes Engine
