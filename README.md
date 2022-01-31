@@ -1,6 +1,8 @@
 # SUMMARY
 Simple CRUD application built with Python and Django
-
+# Production Deployment
+### Click link below to access application hosted on Google Cloud Kubernetes Engine
+Website no longer hosted
 # Local Deployment Instructions
 ### Software Requirements 
 * Docker 20.10.12
